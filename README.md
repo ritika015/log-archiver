@@ -27,6 +27,9 @@ The **Log Archiver** is a CLI tool that automatically compresses and archives lo
 ## 🔗 Project Repository
 [GitHub Repo](https://github.com/ritika015/log-archiver)
 
+## Project URL
+https://roadmap.sh/projects/log-archive-tool
+
 ---
 
 💡 **Tip:** If you want to schedule this task automatically, use `crontab`:
